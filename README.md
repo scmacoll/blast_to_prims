@@ -3,7 +3,7 @@
 Houdini tool for blasting (breaking up) selected primitives into mulitple individual blast nodes.
 
 ## Installation
-1. Place `sop_blasttoprims.1.0.hdalc` into the "**otls**" directory that is within your Houdini directories:
+1. Copy this repository anywhere & place `sop_blasttoprims.1.0.hdalc` into the "**otls**" directory that is within your Houdini directories:
     - Windows: C:\Users\[username]\Documents\houdini[version]\otls
     - macOS: /Users/[username]/Library/Preferences/houdini/[version]/otls
     - Linux: ~/houdini[version]/otls
